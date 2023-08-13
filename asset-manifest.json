@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.340406f1.css",
+    "main.js": "/my-website/static/js/main.b2eed2ac.js",
+    "static/js/787.bbe01249.chunk.js": "/my-website/static/js/787.bbe01249.chunk.js",
+    "static/media/header.JPG": "/my-website/static/media/header.e04e043b522daa47221a.JPG",
+    "static/media/hoss-app.png": "/my-website/static/media/hoss-app.fc0803eca0df0a981189.png",
+    "static/media/littleLemon.png": "/my-website/static/media/littleLemon.7f2cd11394a25b44a635.png",
+    "static/media/hashocracy-app.png": "/my-website/static/media/hashocracy-app.33383d1137591576b6ef.png",
+    "static/media/CoestralPersonalUse-z8ZEw.woff": "/my-website/static/media/CoestralPersonalUse-z8ZEw.8f9c116d13763b5c96a7.woff",
+    "static/media/SarlotteRegular-L3d73.woff": "/my-website/static/media/SarlotteRegular-L3d73.a09044c1ff9d34dda489.woff",
+    "index.html": "/my-website/index.html",
+    "main.340406f1.css.map": "/my-website/static/css/main.340406f1.css.map",
+    "main.b2eed2ac.js.map": "/my-website/static/js/main.b2eed2ac.js.map",
+    "787.bbe01249.chunk.js.map": "/my-website/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340406f1.css",
+    "static/js/main.b2eed2ac.js"
+  ]
+}

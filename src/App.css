@@ -85,9 +85,13 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 150px 0 50px 0; 
+  padding: 30px 0 50px 0; 
   min-height: 100vh; /* Set a minimum height to reserve space for typing effect */
   font-family: "Sarlotte Regular";
+}
+
+.about-text div {
+  font-weight: 600;
 }
 
 .portrait img{
@@ -100,7 +104,7 @@ html {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  padding: 100px;
+  /* padding: 70px; */
   font-family: 'Sarlotte Regular';
   font-weight: 600;
 }
@@ -127,7 +131,7 @@ html {
 /* -------------- Resume ---------------- */
 .resume{
   min-height: 210vh;
-  padding: 150px 0 20px 0; 
+  padding: 130px 0 20px 0; 
   font-family: 'Times New Roman', Times, serif; 
 }
 
@@ -164,8 +168,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 85vh;
-  padding: 100px 0 0 0;
+  min-height: 75vh;
+  padding: 30px 0 0 0;
   font-family: 'Sarlotte Regular';
   font-weight: 600;
 }

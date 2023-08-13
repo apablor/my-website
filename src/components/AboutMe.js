@@ -15,7 +15,7 @@ function AboutMe(){
                 <div> 
                   Hello World! My name is Ashley Pablo, a recent grad from 
                   Cal State LA based out of Oakland. I am currently working 
-                  as a freelancer helping build websites for small businesses
+                  on helping build websites for small businesses
                   and volunteering at a non profit organization that provides 
                   the community of Oakland with low cost laptops and tech services. 
                   And when I am not coding or helping my community, I spend my time 

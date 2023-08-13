@@ -60,7 +60,8 @@ html {
 } */
 
 .navbar-link:hover{
-  color: pink; 
+  /* color: pink;  */
+  text-decoration: underline;
 }
 
 /* --------------- banner/home -------------------- */
